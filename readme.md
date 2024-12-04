@@ -413,7 +413,7 @@ Hope the content of this tutorial is useful for the readers. Happy Coding...
 
 ## Application Setup Instructions
 
-1. `git clone https://github.com/tridibdawn/Repository-Pattern.git`
+1. `https://github.com/RanaMuhammadYar/Laravel-Service-Repository-Pattern.git`
 2. `git checkout -b "<your-branch>"`
 3. copy _.env.example_ into _.env_ 
 4. Setup _database_ in _.env_ 
